@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod>
+  <Name>Real World Tech Companies</Name>
+  <Description>Adds real tech companies with accurate founding years, specializations, and locations.</Description>
+  <Author>YourName</Author>
+  <Version>1.0</Version>
+  <TargetVersion>A12</TargetVersion> <!-- Adjust for current game version -->
+  
+  <Dependencies>
+    <!-- List any required mods -->
+  </Dependencies>
+  
+  <LoadOrder>
+    <Asset>Companies.xml</Asset>
+    <Asset>Cities.xml</Asset>
+  </LoadOrder>
+</Mod>
