@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Companies>
+  <!-- Early Tech Companies -->
+  <Company>
+    <Name>IBM</Name>
+    <FoundedYear>1911</FoundedYear>
+    <Specializations>
+      <Specialization>System</Specialization>
+      <Specialization>Business</Specialization>
+    </Specializations>
+    <City>Armonk</City>
+    <LogoPath>Assets/Logos/IBM.png</LogoPath>
+    <PreferredSoftwareTypes>
+      <SoftwareType>Operating System</SoftwareType>
+      <SoftwareType>Database</SoftwareType>
+    </PreferredSoftwareTypes>
+  </Company>
+
+  <!-- Golden Age Tech -->
+  <Company>
+    <Name>Apple</Name>
+    <FoundedYear>1976</FoundedYear>
+    <Specializations>
+      <Specialization>System</Specialization>
+      <Specialization>Creative</Specialization>
+    </Specializations>
+    <City>Cupertino</City>
+    <LogoPath>Assets/Logos/Apple.png</LogoPath>
+    <PreferredSoftwareTypes>
+      <SoftwareType>Operating System</SoftwareType>
+      <SoftwareType>2D Editor</SoftwareType>
+      <SoftwareType>Audio Tool</SoftwareType>
+    </PreferredSoftwareTypes>
+  </Company>
+
+  <!-- Internet Boom -->
+  <Company>
+    <Name>Google</Name>
+    <FoundedYear>1998</FoundedYear>
+    <Specializations>
+      <Specialization>Web</Specialization>
+      <Specialization>AI</Specialization>
+    </Specializations>
+    <City>Mountain View</City>
+    <LogoPath>Assets/Logos/Google.png</LogoPath>
+    <PreferredSoftwareTypes>
+      <SoftwareType>Web Service</SoftwareType>
+      <SoftwareType>Mobile OS</SoftwareType>
+    </PreferredSoftwareTypes>
+  </Company>
+
+  <!-- Modern Giants -->
+  <Company>
+    <Name>Meta</Name>
+    <FoundedYear>2004</FoundedYear>
+    <Specializations>
+      <Specialization>Web</Specialization>
+      <Specialization>Social</Specialization>
+    </Specializations>
+    <City>Menlo Park</City>
+    <LogoPath>Assets/Logos/Meta.png</LogoPath>
+    <PreferredSoftwareTypes>
+      <SoftwareType>Social Network</SoftwareType>
+      <SoftwareType>VR Software</SoftwareType>
+    </PreferredSoftwareTypes>
+  </Company>
+
+  <!-- Add all other companies following the same pattern -->
+</Companies>
